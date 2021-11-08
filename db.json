@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "posts": [
     { "id": 1, "title": "Post 1" },
@@ -12,3 +13,16 @@
     "name": "typicode"
   }
 }
+=======
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+>>>>>>> 151d935215b0e46a98d87420de846b8e876ef2b1
